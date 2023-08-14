@@ -1,0 +1,152 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Track1",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18206",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Track2",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18207",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Track3",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18208",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track4",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18209",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track5",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18210",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track6",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18211",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track7",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18212",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track8",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.nozika.co/down.php?s_id=18213",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track9",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.izlanzik.com/uploads/2021/Ahouzar_Abdelaziz/Badad haydi.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track10",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/1/f/5/1f5fa891f2f7d97b64df6a018bc13572.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track11",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/5/9/9/599903e1ff94774bd7a311bb1f292830.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track12",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/9/d/e/9de026a9f80696ce95cc2563add6fdfa.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track13",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/8/1/a/81a239352bc10361c8b4312885f9b01f.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track14",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/7/b/f/7bfb3604c18a8da15f4fb820f750a715.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track15",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.izlanzik.com/uploads/2021/Ahouzar_Abdelaziz/Isoul oumoutl.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track16",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/e/8/8/e88123fe5ac8b854e7fc82fc62aa4662.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track17",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/f/4/9/f4959a03954ac6ad51a8748488e0b5a4.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track18",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/9/7/5/9752986e71787be08b3894f814211e7d.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track19",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/9/e/5/9e56baa514456efa94fdb371e8ea0a16.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track20",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/1/6/f/16f4c97f284c11bdb0c430428e8d5af0.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track21",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/2/f/d/2fde2df99a8f3cb4ca5cfe5581714096.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track22",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/1/1/2/112f524e4b81ea2c86abe7ffa418b0fb.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track23",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/2/d/a/2da16ff25942b90823c8f4c8d63d3e49.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      }
+   ]
+}
